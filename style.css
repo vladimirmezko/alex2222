@@ -1,0 +1,172 @@
+body {
+  margin: auto;
+  }
+  
+  .print1 {
+  background-color: white;
+   width: 900px;
+   height: 1200px;
+   margin: auto;
+   margin-top: 10px;
+   margin-bottom: 20px;
+   box-shadow: 0px 0px 300px 0px;
+  
+    
+  }
+  
+  body  {
+  background: url(https://oir.mobi/uploads/posts/2021-03/1616558680_35-p-fon-dlya-prezentatsii-odnotonnii-goluboi-37.jpg)  ;
+    
+    
+  }
+
+
+  .lico{
+  position: absolute;
+  width: 200px;
+  justify-content: center;
+  margin-left: 100px;
+  margin-top: 50px;
+  height: 200px;
+  background: url(./img/imgonline-com-ua-Resize-fIW6ts8XmDb8xsO.jpg);
+  box-shadow: 0 0 2px #666; /* Параметры тени */
+
+  }
+  
+ 
+
+
+  
+  H1 {
+  color: #222222;
+  font-size: 150%;
+  font-family: Arial, Verdana, sans-serif;
+  margin-left: 20px;
+  text-align: left;
+  }
+
+.text{
+    position: absolute;
+    margin-left: 50px;
+    
+    font-size: 120%;
+    margin-top: 260px; /* Отступ сверху */
+    margin-bottom: 1em;
+    line-height: 30px;
+    width: 400px;
+}
+
+.text2{
+  font-size: 120%;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 50px;
+  
+  line-height: 30px;
+  width: 350px;
+  
+}
+
+
+a{
+    margin-bottom: -50px;
+    
+    
+}
+
+.ph{
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 450px;
+}
+
+.fr3{
+  margin-top: 50px;
+  margin-left: 100px;
+
+}
+
+
+.v1{
+  position: absolute;
+  margin-top: 45px;
+  margin-left: -15px;
+  height: 190px;
+  
+}
+
+.fr5{
+  position: absolute;
+  margin-top: 255px;
+  margin-left: -30px;
+} 
+
+.v2{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: -15px;
+  height: 350px;
+  width: 4px;
+}
+
+.fr6{
+  position: absolute;
+  margin-top: 700px;
+  margin-left: -30px;
+}
+
+.v3{
+  position: absolute;
+  margin-top: 740px;
+  margin-left: -15px;
+  height: 250px;
+  width: 4px;
+}
+
+b{
+  margin-block-end: -20px;
+  color: #000000;
+  font-size: 150%;
+  font-family: Arial, Verdana, sans-serif;
+  margin-left: 50px;
+  } */
+  
+  .p{
+  margin-left: 50px;
+  margin-block-start: 10px;
+  font-size: 120%;
+  }
+
+
+  
+  /* @media (max-width: 480px)  {
+   body {
+    float: right;
+    width: 600px;
+    height: 200px;
+
+    
+  
+    }
+  .print1{
+    width: 600px;
+    height: 200px;
+   }
+  
+  
+  } */
+
+
+
+
+.fr1{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.fr2{
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 800px;
+}
